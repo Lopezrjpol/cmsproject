@@ -1,0 +1,18 @@
+.navbar-custom {
+    background: #333366;
+    height: 60px; }
+  
+  .navbar-header .navbar-brand {
+    color: #fff;
+    font-family:  "Nexa Bold";
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+    height: 60px;
+    padding-top: 18px;
+    padding-left: 25px; }
+  
+  .navbar-header .navbar-brand span {
+    color: #FF9933;
+    font-family:  "Nexa Bold" }
+ 
